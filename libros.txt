@@ -1,0 +1,9 @@
+0-Introducción a los Algoritmos-Thomas H. Cormen-True
+1-Código Limpio-Robert C. Martin-True
+2-Patrones de Diseño-Erich Gamma-True
+3-Python Efectivo-Brett Slatkin-False
+4-Python Fluido-Luciano Ramalho-True
+5-El Programador Pragmático-Andrew Hunt-True
+6-No Sabes JS-Kyle Simpson-True
+7-Inteligencia Artificial: Un Enfoque Moderno-Stuart Russell-True
+8-Aprendizaje Profundo-Ian Goodfellow-Tru
